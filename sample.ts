@@ -53,5 +53,17 @@ Myhouse.details();
 console.log(Myhouse.color);
 
 
+//switch
+switch (age) {
+    case 18:
+        console.log("Eligible for voting");
+        break;
+    default:
+        console.log("Not eligible for voting");
+        break;
+}
+
+
+
 
 
