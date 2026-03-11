@@ -48,6 +48,7 @@ const Myhouse: House = {
 
 }
 
+//Calling function to access interfaces
 Myhouse.details();
 console.log(Myhouse.color);
 
