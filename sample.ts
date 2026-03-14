@@ -1,4 +1,4 @@
-let Name = "Harish";
+let Name = "Janani";
 console.log("Name");
 console.log(typeof (Name));
 
